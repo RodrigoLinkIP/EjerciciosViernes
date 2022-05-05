@@ -54,7 +54,7 @@ namespace EjerciciosViernes
                     double conversion;
                     conversion = medida / 1.609;
                     string nombre = "Conversion";
-                    MessageBox.Show("La medida en Millas es de: " + conversion + "km", nombre);
+                    MessageBox.Show("La medida en Km es de: " + conversion + "millas", nombre);
                 }
             }
             else if (medida <= 0)
@@ -92,7 +92,7 @@ namespace EjerciciosViernes
                     double conversion;
                     conversion = medida * 1.609;
                     string nombre = "Conversion";
-                    MessageBox.Show("La medida en Millas es de: " + conversion + " millas", nombre);
+                    MessageBox.Show("La medida en Millas es de: " + conversion + " km", nombre);
                 }
             }
             else if (medida <= 0)
