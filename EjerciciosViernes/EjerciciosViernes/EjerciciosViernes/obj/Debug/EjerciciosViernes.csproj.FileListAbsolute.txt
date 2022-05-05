@@ -1,0 +1,13 @@
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\bin\Debug\EjerciciosViernes.exe.config
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\bin\Debug\EjerciciosViernes.exe
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\bin\Debug\EjerciciosViernes.pdb
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form1.resources
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Properties.Resources.resources
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.exe
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.pdb
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form2.resources
+C:\Users\HP\Source\Repos\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form3.resources
