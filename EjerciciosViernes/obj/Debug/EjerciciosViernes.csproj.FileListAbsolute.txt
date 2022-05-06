@@ -38,3 +38,17 @@ D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.CoreC
 D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.exe
 D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.pdb
 D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form5.resources
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\bin\Debug\EjerciciosViernes.exe.config
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\bin\Debug\EjerciciosViernes.exe
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\bin\Debug\EjerciciosViernes.pdb
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.AssemblyReference.cache
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form1.resources
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form2.resources
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form3.resources
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form5.resources
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.Properties.Resources.resources
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.GenerateResource.cache
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.CoreCompileInputs.cache
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.exe
+C:\Users\CSSC-A20\Desktop\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.pdb
