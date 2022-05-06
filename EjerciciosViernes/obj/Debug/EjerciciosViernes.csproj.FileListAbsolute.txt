@@ -24,3 +24,17 @@ C:\Users\rodri\OneDrive\Escritorio\Nueva carpeta (3)\EjerciciosViernes\Ejercicio
 C:\Users\rodri\OneDrive\Escritorio\Nueva carpeta (3)\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.CoreCompileInputs.cache
 C:\Users\rodri\OneDrive\Escritorio\Nueva carpeta (3)\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.exe
 C:\Users\rodri\OneDrive\Escritorio\Nueva carpeta (3)\EjerciciosViernes\EjerciciosViernes\EjerciciosViernes\obj\Debug\EjerciciosViernes.pdb
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.AssemblyReference.cache
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.SuggestedBindingRedirects.cache
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form1.resources
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form2.resources
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form3.resources
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.GenerateResource.cache
+D:\EjerciciosViernes1\EjerciciosViernes\bin\Debug\EjerciciosViernes.exe.config
+D:\EjerciciosViernes1\EjerciciosViernes\bin\Debug\EjerciciosViernes.exe
+D:\EjerciciosViernes1\EjerciciosViernes\bin\Debug\EjerciciosViernes.pdb
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.Properties.Resources.resources
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.csproj.CoreCompileInputs.cache
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.exe
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.pdb
+D:\EjerciciosViernes1\EjerciciosViernes\obj\Debug\EjerciciosViernes.Form5.resources

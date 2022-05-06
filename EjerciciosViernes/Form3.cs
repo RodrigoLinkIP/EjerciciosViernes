@@ -112,8 +112,8 @@ namespace EjerciciosViernes
         private void button6_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 form1 = new Form1();
-            form1.ShowDialog();
+            Form5 form5 = new Form5();
+            form5.ShowDialog();
         }
     }
 }
